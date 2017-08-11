@@ -1,2 +1,2 @@
 # nodejs-project
-nodejs express mongodb
+基于nodejs+express+mongodb做的简易博客系统
